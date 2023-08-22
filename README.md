@@ -60,4 +60,8 @@ pm.test('message: ' + expectMsg, () => {
 
 ![chart_API](https://github.com/khang77/ThucHanhKiemThuUngDungWeb_API/assets/92577611/c051b2dd-f98d-4dd5-ab9f-d60c2af1c7bf)
 
+#### 🟢🟢🟢 Kiểm thử tương thích trên các phiên bản trình duyệt, nền tảng, thiết bị, hoặc môi trường mới 🟢🟢🟢
 
+_Ứng dụng Web Tìm việc làm KHÔNG hoạt động tốt trên thiết bị điện thoại di động (test trên Samsung Galaxy A51)_
+
+![web_on_mobile](https://github.com/khang77/ThucHanhKiemThuUngDungWeb_API/assets/92577611/da300711-c14b-4c75-a121-5bd9d9d62f62)
